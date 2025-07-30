@@ -3,3 +3,4 @@ flask-restful
 pandas
 scikit-learn
 python-dotenv
+gunicorn
